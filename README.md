@@ -1,2 +1,14 @@
-# messmate
-MessMate is a simple mess management app built with Flutter. It helps users track meals, expenses, and payments easily. The app keeps mess records organized, calculates meal costs, and provides clear history for all members.
+
+MessMate is a smart mess management app built with Flutter.
+It helps mess members easily track meals, expenses, and payments in one place.
+
+Features:
+
+* Meal tracking (breakfast, lunch, dinner)
+* Expense management with automatic meal-based calculation
+* Payment tracking for each member
+* Member history with date and time
+* Monthly report and balance calculation
+* Clean and simple UI
+
+MessMate makes shared living easier by keeping all mess records organized and transparent.
